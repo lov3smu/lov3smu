@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=ancoka&repo=atom-feed&show_owner=true)](https://github.com/ancoka/atom-feed)
+[![Focus Repo](https://github-readme-stats.vercel.app/api?username=ancoka&theme=tokyonight)](https://github.com/ancoka)
