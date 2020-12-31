@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![Focus Repo](https://github-readme-stats.vercel.app/api?username=ancoka&theme=tokyonight)](https://github.com/ancoka)
-![](https://github-readme-stats.vercel.app/api?username=ancoka&theme=tokyonight)
