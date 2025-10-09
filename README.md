@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lov3smu&exclude_repo=lov3smu,lov3smu.github.io)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lov3smu&repo=hw_seckill&show_owner=true&description_lines_count=3)](https://github.com/lov3smu/hw_seckill)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lov3smu&repo=atom-feed&show_owner=true&description_lines_count=3)](https://github.com/lov3smu/atom-feed)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lov3smu&repo=larav-oauth2-client&show_owner=true&description_lines_count=3)](https://github.com/lov3smu/larav-oauth2-client)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lov3smu&repo=yii2-queues&show_owner=true&description_lines_count=3)](https://github.com/lov3smu/yii2-queues)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lov3smu&repo=hw_seckill&show_owner=true&description_lines_count=2)](https://github.com/lov3smu/hw_seckill)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lov3smu&repo=atom-feed&show_owner=true&description_lines_count=2)](https://github.com/lov3smu/atom-feed)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lov3smu&repo=larav-oauth2-client&show_owner=true&description_lines_count=2)](https://github.com/lov3smu/larav-oauth2-client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lov3smu&repo=yii2-queues&show_owner=true&description_lines_count=2)](https://github.com/lov3smu/yii2-queues)
