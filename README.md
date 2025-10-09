@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Focus Repo](https://github-readme-stats.vercel.app/api?username=lov3smu&theme=tokyonight)](https://github.com/lov3smu)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lov3smu&exclude_repo=lov3smu,lov3smu.github.io)
