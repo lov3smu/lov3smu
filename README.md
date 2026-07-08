@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**ancoka/ancoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lov3smu/lov3smu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
