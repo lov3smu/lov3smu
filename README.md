@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Focus Repo](https://github-readme-stats.vercel.app/api?username=lov3smu&theme=tokyonight)](https://github.com/lov3smu)
+[![Focus Repo](https://github-stats-extended.vercel.app/api?username=lov3smu&theme=tokyonight)](https://github.com/lov3smu)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lov3smu&layout=compact&theme=tokyonight&exclude_repo=lov3smu,lov3smu.github.io)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lov3smu&repo=hw_seckill&show_owner=true&description_lines_count=2)](https://github.com/lov3smu/hw_seckill)
